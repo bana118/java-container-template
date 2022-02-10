@@ -2,7 +2,7 @@
     "name": "project-name",
     "dockerFile": "Dockerfile",
     "extensions": [
-        "vscjava.vscode-java-debug",
+        "vscjava.vscode-java-pack",
         "richardwillis.vscode-gradle-extension-pack"
     ]
 }
